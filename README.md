@@ -29,7 +29,7 @@ Mapping India's structural dependency on South Korean semiconductor exports usin
 ├── outputs/
 │   └── dashboard.png                 # Final risk dashboard
 └── brief/
-    └── India-Korea_Supply_Chain_Brief.docx  # Policy brief
+    └── India-Korea Supply Chain Brief.docx  # Policy brief
 ```
 
 ## Data source
